@@ -1,4 +1,4 @@
-USE burgershack6;
+USE burgerz;
 -- CREATE TABLE burgers
 -- (
 --     id VARCHAR(255) NOT NULL,
@@ -10,10 +10,10 @@ USE burgershack6;
 -- );
 
 -- CREATE
--- INSERT INTO burgers 
--- (id, name, price, description)
--- VALUES
--- ("235", "D$", 12.99, "All the meat and cheese we have");
+INSERT INTO burgers 
+(id, name, price, description)
+VALUES
+("235", "D$", 12.99, "All the meat and cheese we have");
 
 -- GET ALL
 -- SELECT * FROM burgers;
